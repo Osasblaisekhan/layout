@@ -47,12 +47,13 @@ header{
     font-weight: bolder;
     padding-top: 100px;
     border: 2px solid black;
-    width: 200px;
-    height: 200px;
+    width: 330px;
+    height: 330px;
+    margin-bottom: 10px;
 }
 aside{
     width: 25%;
-    height: 30vh;
+    height: 38vh;
     border: 2px solid black;
     position: fixed;
     top: 200px;
